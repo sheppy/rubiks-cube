@@ -1,0 +1,28 @@
+{
+  "name": "rubiks-cube",
+  "private": true,
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/sheppy/rubiks-cube.git"
+  },
+  "keywords": [],
+  "author": "Chris Sheppard (http://www.chrissheppard.co.uk/)",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/sheppy/rubiks-cube/issues"
+  },
+  "homepage": "https://github.com/sheppy/rubiks-cube",
+  "devDependencies": {
+    "chai": "3.5.0",
+    "jest": "17.0.3"
+  },
+  "dependencies": {
+    "seedrandom": "2.4.2"
+  }
+}
